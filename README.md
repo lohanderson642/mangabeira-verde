@@ -81,6 +81,4 @@ Pequenas ações locais, como a horta comunitária, podem gerar grandes transfor
 
 ---
 
-##
-
 **Feito com ❤️ para uma João Pessoa mais verde e sustentável**
