@@ -68,12 +68,6 @@ Mangabeira é um dos maiores e mais populosos bairros de João Pessoa. Caracteri
 - **Econômico**: Produção local de alimentos e possível geração de renda
 
 ---
-## 📁 Estrutura do Repositório
-
-- `/relatorio` → Arquivos do trabalho completo
-- `/imagens` → Fotos, mapas e ilustrações
-- `/apresentacao` → Slides e materiais visuais
-- `/documentos` → Referências e questionários
 
 ## 📚 Referências
 
