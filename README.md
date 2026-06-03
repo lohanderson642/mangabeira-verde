@@ -4,8 +4,7 @@ trabalho de Denilson
 
 **Proposta de Horta Comunitária e Gestão de Resíduos Orgânicos**  
 Bairro Mangabeira - João Pessoa, PB
-
-Trabalho de Ensino Médio  
+ 
 Alunos: [Lohanderson, Leônidas, Italo, David]  
 Turma: [1° DS-A]  
 Escola: [ECIT MESTRE SIVUCA]  
