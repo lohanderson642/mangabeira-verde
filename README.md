@@ -75,4 +75,20 @@ Veja o arquivo completo em [`documentos/referencias-abnt.md`](documentos/referen
 
 ---
 
+## conclusão
+
+[relatorio/conclusao.md]
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Feito com ❤️ para uma João Pessoa mais verde e sustentável**
